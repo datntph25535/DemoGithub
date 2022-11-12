@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Huy%20PC/Documents/NetBeansProjects/SOF2041_PH25535_Assignment/src/Repository/BanHangRepo.java</file>
+            <file>file:/C:/Users/Huy%20PC/Documents/NetBeansProjects/SOF2041_PH25535_Assignment/src/ViewModel/TableSanPham.java</file>
+            <file>file:/C:/Users/Huy%20PC/Documents/NetBeansProjects/SOF2041_PH25535_Assignment/src/Service/BanHangService.java</file>
+            <file>file:/C:/Users/Huy%20PC/Documents/NetBeansProjects/SOF2041_PH25535_Assignment/src/Repository/SanPhamRepo.java</file>
+            <file>file:/C:/Users/Huy%20PC/Documents/NetBeansProjects/SOF2041_PH25535_Assignment/src/View/HoaDonChiTietForm.java</file>
+            <file>file:/C:/Users/Huy%20PC/Documents/NetBeansProjects/SOF2041_PH25535_Assignment/src/Repository/ChiTietSPRepo.java</file>
+            <file>file:/C:/Users/Huy%20PC/Documents/NetBeansProjects/SOF2041_PH25535_Assignment/src/View/BanHangForm.java</file>
+            <file>file:/C:/Users/Huy%20PC/Documents/NetBeansProjects/SOF2041_PH25535_Assignment/src/View/HoaDonForm.java</file>
+            <file>file:/C:/Users/Huy%20PC/Documents/NetBeansProjects/SOF2041_PH25535_Assignment/src/DomainModel/HoaDon.java</file>
+            <file>file:/C:/Users/Huy%20PC/Documents/NetBeansProjects/SOF2041_PH25535_Assignment/src/Service/HoaDonChiTietService.java</file>
+            <file>file:/C:/Users/Huy%20PC/Documents/NetBeansProjects/SOF2041_PH25535_Assignment/src/View/CuaHangForm.java</file>
+            <file>file:/C:/Users/Huy%20PC/Documents/NetBeansProjects/SOF2041_PH25535_Assignment/src/DomainModel/ChiTietSP.java</file>
+            <file>file:/C:/Users/Huy%20PC/Documents/NetBeansProjects/SOF2041_PH25535_Assignment/src/DomainModel/ChucVu.java</file>
+            <file>file:/C:/Users/Huy%20PC/Documents/NetBeansProjects/SOF2041_PH25535_Assignment/src/View/ChiTietSPForm.java</file>
+            <file>file:/C:/Users/Huy%20PC/Documents/NetBeansProjects/SOF2041_PH25535_Assignment/src/View/SanPhamForm.java</file>
+            <file>file:/C:/Users/Huy%20PC/Documents/NetBeansProjects/SOF2041_PH25535_Assignment/src/Service/MauSacService.java</file>
+        </group>
+    </open-files>
+</project-private>
